@@ -13,7 +13,6 @@ body {
     background-image: url(./image/css.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    /* background-position: center; */
     color:whitesmoke;
     padding: 30px;
 }
@@ -22,7 +21,7 @@ body {
     /* background: lightslategrey; */
     padding: 15px;
     border-radius: 3px;
-}
+} 
 
 img{
     height: 250px;
