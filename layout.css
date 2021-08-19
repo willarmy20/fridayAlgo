@@ -10,10 +10,10 @@ body {
 
 .classwork{
     min-height: 100vh;
-    background-image: url(./image/css.jpg);
+    background-color: black ;
     background-size: cover;
     background-repeat: no-repeat;
-    color:whitesmoke;
+    color:white;
     padding: 30px;
 }
 
@@ -27,7 +27,8 @@ img{
     height: 250px;
     display: block;
     margin-left: auto;
-    margin-right: auto
+    margin-right: auto;
+    margin-bottom: 2%;
 }
 
 .text{
