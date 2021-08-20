@@ -9,6 +9,27 @@ body {
 .header {
   color: #fe413c;
 }
+.footer {
+  text-align: end;
+  padding-bottom: 2rem;
+  padding-right: 2rem;
+}
+
+.footer-header {
+  font-size: 15px;
+  color: #fe413c;
+}
+a.nostyle:link {
+  text-decoration: inherit;
+  color: inherit;
+  cursor: auto;
+}
+
+a.nostyle:visited {
+  text-decoration: inherit;
+  color: inherit;
+  cursor: auto;
+}
 
 .classwork {
   min-height: 100vh;
